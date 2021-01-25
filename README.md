@@ -1,6 +1,6 @@
 ## Installation tutorial
 
-The most important dependency for this project is the NPM-JS interpreter. Before running these commands/scripts, first install NPM-JS. You can get it from here https://www.npmjs.com/get-npm.
+The most important dependency for this project is the Node.js interpreter and the NPM-JS package manager. Before running these commands/scripts, first install Node.js and NPM-JS. You can get them from here: https://nodejs.org/en/download/, https://www.npmjs.com/get-npm.
 
 In the project directory, you should run:
 
